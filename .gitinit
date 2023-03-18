@@ -1,0 +1,7 @@
+*.log
+*.bak
+/bin
+/obj
+/.vs
+*.csproj
+/node_modules
